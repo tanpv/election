@@ -188,3 +188,7 @@
   - add all dist folder --> ipfs add -r dist/  
   - publish the hash--> ipfs name publish "hash of dist"
   - access dapp from internet --> gateway.ipfs.io/ipfs/"hash of dist"
+  
+- some other good read
+  - https://hackernoon.com/wtf-is-ethereum-c65e0d67ac09
+  - https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348
